@@ -5,4 +5,4 @@
 > 理解语义化，合理地使用HTML标签来构建页面
 > 无css js
 
-demo： [点我]()
+demo： [点我](http://cheesekun.top/ife-xiaowei/zero0/zero0.html)
