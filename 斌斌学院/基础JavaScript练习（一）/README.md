@@ -5,6 +5,7 @@ demo: [点我](http://cheesekun.top/ife-binbin/jsUp1/index.html)
  - 初步了解JavaScript的事件是什么
  - 初步了解JavaScript中的DOM是什么
 - 任务描述
+<br />
 ![](http://7xrp04.com1.z0.glb.clouddn.com/task_2_18_1.jpg)
  - 如图，模拟一个队列，队列的每个元素是一个数字，初始队列为空
  - 有一个input输入框，以及4个操作按钮
