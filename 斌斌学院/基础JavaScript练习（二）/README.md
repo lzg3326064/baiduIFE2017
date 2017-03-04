@@ -1,4 +1,4 @@
-demo: [点我](http://www.thebestlanguageintheworld.com/)
+demo: [点我](http://www.cheesekun.top/ife-binbin/jsUp2/index.html)
 
 - 任务目的
  - 学习与实践JavaScript的基本语法、语言特性
