@@ -532,6 +532,7 @@ header .introduce ul li .line.line_no {
   margin: 5px;
   font-size: 14px;
   padding-left: 10px;
+  resize: none;  //禁止拖动大小
 }
 
 /* footer */
