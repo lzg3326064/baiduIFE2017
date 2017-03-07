@@ -33,11 +33,13 @@ function createLi() {
 //绑定点击效果
 leftIn.addEventListener('click', function() {
   var newNode = createLi();
+  if(!newNode){return}
   data.unshift($("num").value);
   $$("ul")[0].insertBefore(newNode, $$("li")[0]);
 });
 rightIn.addEventListener('click', function() {
   var newNode = createLi();
+  if(!newNode){return}
   data.push($("num").value);
   $$("ul")[0].appendChild(newNode);
 });
