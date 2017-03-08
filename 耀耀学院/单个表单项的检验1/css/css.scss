@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+input {
+  line-height: 65px;
+  box-sizing: border-box;
+  padding: 15px;
+  border: 2px solid #999;
+  border-radius: 10px;
+  font: 25px 微软雅黑;
+  outline: none;
+}
+
+form {
+  margin: 20px auto;
+  #name {
+    width: 780px;
+    height: 110px;
+    margin: 0 auto;
+    background: #fff;
+    label {
+      span {
+        margin-right: 50px;
+        font: 25px 微软雅黑;
+      }
+      input[type="text"] {
+        width: 530px;
+        color: #777;
+      }
+    }
+    input[type="button"] {
+      float: right;
+      cursor: point;
+      width: 110px;
+      color: #fff;
+      background: #159;
+    }
+    p {
+      font-size: 20px;
+      color: #999;
+      margin: 5px 0 0 100px;
+    }
+  }
+}
