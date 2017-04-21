@@ -1,4 +1,4 @@
-demo: [点我](cheesekun.top/ife-yaoyao/form2)
+demo: [点我](http://cheesekun.top/ife-yaoyao/form2)
 
 - 任务目的
  - 加强对JavaScript的掌握
